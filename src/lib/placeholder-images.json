@@ -1,3 +1,88 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "avatar-1",
+      "description": "User avatar 1",
+      "imageUrl": "https://images.unsplash.com/photo-1540569014015-19a7be504e3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjQzNjgzMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar-2",
+      "description": "User avatar 2",
+      "imageUrl": "https://images.unsplash.com/photo-1531123414780-f74242c2b052?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzY0MzY4MzI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar-3",
+      "description": "User avatar 3",
+      "imageUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjQzNjgzMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar-4",
+      "description": "User avatar 4",
+      "imageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjQzNjgzMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar-5",
+      "description": "User avatar 5",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjQzNjgzMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "job-1",
+      "description": "Construction job image",
+      "imageUrl": "https://images.unsplash.com/photo-1591955506264-3f5a6834570a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb25zdHJ1Y3Rpb24lMjBzaXRlfGVufDB8fHx8MTc2NDM5NjQ5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "construction site"
+    },
+    {
+      "id": "job-2",
+      "description": "Catering event image",
+      "imageUrl": "https://images.unsplash.com/photo-1488324346298-5ad3d8f96d0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxyZXN0YXVyYW50JTIwZXZlbnR8ZW58MHx8fHwxNzY0Mzk4NDE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "restaurant event"
+    },
+    {
+      "id": "job-3",
+      "description": "House cleaning image",
+      "imageUrl": "https://images.unsplash.com/photo-1556020685-ae41abfc9365?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjbGVhbiUyMGhvdXNlfGVufDB8fHx8MTc2NDMyMTYxNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "clean house"
+    },
+    {
+      "id": "job-4",
+      "description": "Gardening job image",
+      "imageUrl": "https://images.unsplash.com/photo-1580600301354-0ce8faef576c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxiZWF1dGlmdWwlMjBnYXJkZW58ZW58MHx8fHwxNzY0Mzk4NDE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beautiful garden"
+    },
+    {
+      "id": "job-5",
+      "description": "Courier job image",
+      "imageUrl": "https://images.unsplash.com/photo-1526367790999-0150786686a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkZWxpdmVyeSUyMGNvdXJpZXJ8ZW58MHx8fHwxNzY0Mzk4NDE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "delivery courier"
+    },
+    {
+      "id": "job-6",
+      "description": "Food stall image",
+      "imageUrl": "https://images.unsplash.com/photo-1628006788623-a5f1cf938cc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmb29kJTIwc3RhbGx8ZW58MHx8fHwxNzY0MzA0OTUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "food stall"
+    },
+    {
+      "id": "job-7",
+      "description": "Warehouse packing image",
+      "imageUrl": "https://images.unsplash.com/photo-1586528116022-aeda1613c63d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3YXJlaG91c2UlMjB3b3JrZXJ8ZW58MHx8fHwxNzY0MzM3NDEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "warehouse worker"
+    },
+    {
+      "id": "job-8",
+      "description": "Car wash image",
+      "imageUrl": "https://images.unsplash.com/photo-1607860108855-64acf2078ed9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjYXIlMjB3YXNofGVufDB8fHx8MTc2NDMxMzYzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "car wash"
+    },
+    {
+      "id": "ktp-card",
+      "description": "Indonesian ID Card (KTP)",
+      "imageUrl": "https://images.unsplash.com/photo-1633381664938-acd1bdf25770?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxJRCUyMGNhcmR8ZW58MHx8fHwxNzY0Mzk4NDE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ID card"
+    }
+  ]
 }
