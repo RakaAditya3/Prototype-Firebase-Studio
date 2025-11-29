@@ -21,6 +21,17 @@ export type Candidate = {
   completedJobs: number
 }
 
+export type ApplicantStatus = 'Applied' | 'Accepted' | 'Working' | 'Completed' | 'Rejected'
+
+export type Applicant = {
+  id: string;
+  candidateId: string;
+  jobId: string;
+  status: ApplicantStatus;
+  appliedDate: string;
+}
+
+
 export const jobs: Job[] = [
   {
     id: '1',
@@ -153,4 +164,28 @@ export const candidates: Candidate[] = [
     rating: 4.7,
     completedJobs: 18,
   },
+    {
+    id: '4',
+    name: 'Siti Aminah',
+    avatar: 'https://picsum.photos/seed/avatar6/100/100',
+    skills: ['Melayani Tamu', 'Komunikatif', 'Ramah'],
+    rating: 4.9,
+    completedJobs: 15,
+  },
+  {
+    id: '5',
+    name: 'Dewi Lestari',
+    avatar: 'https://picsum.photos/seed/avatar7/100/100',
+    skills: ['Sabar', 'Melayani Tamu', 'Bahasa Inggris'],
+    rating: 4.8,
+    completedJobs: 20,
+  },
 ]
+
+export const applicants: Applicant[] = [
+    { id: 'app1', candidateId: '1', jobId: '1', status: 'Accepted', appliedDate: '2024-07-28' },
+    { id: 'app2', candidateId: '2', jobId: '1', status: 'Working', appliedDate: '2024-07-28' },
+    { id: 'app3', candidateId: '3', jobId: '1', status: 'Applied', appliedDate: '2024-07-29' },
+    { id: 'app4', candidateId: '4', jobId: '2', status: 'Applied', appliedDate: '2024-07-29' },
+    { id: 'app5', candidateId: '5', jobId: '2', status: 'Completed', appliedDate: '2024-07-25' },
+];

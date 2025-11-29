@@ -7,6 +7,7 @@ import {
   Fingerprint,
   Settings,
   HelpCircle,
+  Briefcase,
 } from 'lucide-react'
 import {
   Sidebar,
@@ -33,6 +34,7 @@ export default function AppSidebar() {
     { href: '/', label: 'Dashboard', icon: LayoutGrid },
     { href: '/verification', label: 'KTP Verification', icon: Fingerprint, badge: 'Required' },
     { href: '/profile', label: 'Profile', icon: User },
+    { href: '/employer/dashboard', label: 'Employer Dashboard', icon: Briefcase },
   ]
 
   const isActive = (path: string) => {
